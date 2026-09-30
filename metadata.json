@@ -1,0 +1,6 @@
+{
+  "name": "Wasla - Diaspora Travel Logistics",
+  "description": "Crowdsourced diaspora travel logistics platform connecting Cairo, Riyadh, and Jeddah to Port Sudan with a verified 5-step in-person audit trail and Bankak transfer reconciliation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
